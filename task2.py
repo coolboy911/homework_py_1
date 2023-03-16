@@ -1,6 +1,4 @@
 # Найдите сумму цифр трехзначного числа.
-from os import system
-system("cls")  # чистит консоль
 
 flag = True  # повтор ввода если не число
 while flag:
